@@ -1730,8 +1730,8 @@ H1 {
 }
 
 .cid-reRTeJ6xP4 {
-@paddingTop: 2;
-@paddingBottom: 1;
+@paddingTop: 6;
+@paddingBottom: 6;
 @showTitle: true;
 @showText: true;
 @showButtons: true;
@@ -1807,8 +1807,8 @@ p {
 }
 
 .cid-reRimkJCPT {
-@paddingTop: 6;
-@paddingBottom: 6;
+@paddingTop: 7;
+@paddingBottom: 7;
 @showTitle: true;
 @showText: true;
 @showButtons: true;
@@ -1889,10 +1889,10 @@ p {
 @bootstrapAccordion: "3";
 @uname__10: "../../app/themes/mobirise4/components/toggle1/../_images/img/02.jpg";
 @uname__11: false;
-@uname__12: #ffffff;
-@bg-value: #ffffff;
+@uname__12: #82786e;
+@bg-value: #82786e;
 @bg-type: "color";
-@bg-color-value: #ffffff;
+@bg-color-value: #82786e;
 @bg-parallax: false;
 @overlay: true;
 @overlayColor: #ffffff;
@@ -2264,10 +2264,10 @@ form .input-group input.form-control, form .input-group-btn .btn {
 @showSubtitle: false;
 @uname__10: "../../app/themes/mobirise4/components/form1/../_images/background2.jpg";
 @uname__11: true;
-@uname__12: #ffffff;
-@bg-value: #ffffff;
+@uname__12: #82786e;
+@bg-value: #82786e;
 @bg-type: "color";
-@bg-color-value: #ffffff;
+@bg-color-value: #82786e;
 @bg-parallax: false;
 @overlay: false;
 @overlayColor: #000000;
